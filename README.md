@@ -11,6 +11,9 @@
 
 https://kim-jangwook.medium.com/manage-zoom-meeting-rooms-through-zoom-api-with-laravel-ff40b89f921b
 
+composer require firebase/php-jwt
+$ composer require guzzlehttp/guzzle
+
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
